@@ -270,8 +270,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200815T160000
 DTEND;TZID=Asia/Tokyo:20200815T180000
-SEQUENCE:10
-SUMMARY:第5節(21) ノジマステラ神奈川相模原 - INAC神戸レオネッサ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m21.pdf
+SUMMARY:第5節(21) ノジマステラ神奈川相模原 1-1 INAC神戸レオネッサ
 LOCATION:Shonan BMWスタジアム平塚（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -282,8 +283,9 @@ DTSTAMP:20200709T094252
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200815T173000
 DTEND;TZID=Asia/Tokyo:20200815T193000
-SEQUENCE:10
-SUMMARY:第5節(22) セレッソ大阪堺レディース - 日テレ・東京ヴェルディベレーザ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m22.pdf
+SUMMARY:第5節(22) セレッソ大阪堺レディース 1-10 日テレ・東京ヴェルディベレーザ
 LOCATION:ヤンマースタジアム長居（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -306,8 +308,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200815T180000
 DTEND;TZID=Asia/Tokyo:20200815T200000
-SEQUENCE:10
-SUMMARY:第5節(24) 愛媛FCレディース - 浦和レッドダイヤモンズレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m24.pdf
+SUMMARY:第5節(24) 愛媛FCレディース 0-1 浦和レッドダイヤモンズレディース
 LOCATION:ニンジニアスタジアム（愛媛県）
 DESCRIPTION:有料
 END:VEVENT
@@ -318,8 +321,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200816T153000
 DTEND;TZID=Asia/Tokyo:20200816T173000
-SEQUENCE:10
-SUMMARY:第5節(25) マイナビベガルタ仙台レディース - ジェフユナイテッド市原・千葉レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m25.pdf
+SUMMARY:第5節(25) マイナビベガルタ仙台レディース 1-1 ジェフユナイテッド市原・千葉レディース
 LOCATION:みやぎ生協めぐみ野サッカー場Ａグラウンド（宮城県）
 DESCRIPTION:有料
 END:VEVENT
