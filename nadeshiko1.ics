@@ -81,8 +81,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200725T180000
 DTEND;TZID=Asia/Tokyo:20200725T200000
-SEQUENCE:10
-SUMMARY:第2節(6) アルビレックス新潟レディース - 浦和レッドダイヤモンズレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m6.pdf
+SUMMARY:第2節(6) アルビレックス新潟レディース 2-3 浦和レッドダイヤモンズレディース
 LOCATION:新潟市陸上競技場（新潟県）
 END:VEVENT
 BEGIN:VEVENT
@@ -131,7 +132,7 @@ DTEND;TZID=Asia/Tokyo:20200726T210000
 SEQUENCE:11
 URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m10.pdf
 SUMMARY:第2節(10) 愛媛FCレディース 0-1 INAC神戸レオネッサ
-:ニンジニアスタジアム（愛媛県）
+LOCATION:ニンジニアスタジアム（愛媛県）
 END:VEVENT
 BEGIN:VEVENT
 UID:64d40d5eb5f511ea8489787b8ad287bf
@@ -296,8 +297,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200815T180000
 DTEND;TZID=Asia/Tokyo:20200815T200000
-SEQUENCE:10
-SUMMARY:第5節(23) アルビレックス新潟レディース - 伊賀FCくノ一三重
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m23.pdf
+SUMMARY:第5節(23) アルビレックス新潟レディース 1-1 伊賀FCくノ一三重
 LOCATION:新発田市五十公野公園陸上競技場（新潟県）
 DESCRIPTION:有料
 END:VEVENT
