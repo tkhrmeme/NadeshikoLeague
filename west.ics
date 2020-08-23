@@ -21,8 +21,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200822T150000
 DTEND;TZID=Asia/Tokyo:20200822T170000
-SEQUENCE:10
-SUMMARY:第1節(1) スペランツァ大阪高槻 - セレッソ大阪堺ガールズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m1.pdf
+SUMMARY:第1節(1) スペランツァ大阪高槻 3-0 セレッソ大阪堺ガールズ
 LOCATION:服部緑地陸上競技場（大阪府）
 END:VEVENT
 BEGIN:VEVENT
@@ -32,8 +33,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200823T130000
 DTEND;TZID=Asia/Tokyo:20200823T150000
-SEQUENCE:10
-SUMMARY:第1節(2) 岡山湯郷Belle - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m2.pdf
+SUMMARY:第1節(2) 岡山湯郷Belle 2-0 吉備国際大学Charme岡山高梁
 LOCATION:岡山県美作ラグビー・サッカー場（岡山県）
 END:VEVENT
 BEGIN:VEVENT
@@ -43,8 +45,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200823T160000
 DTEND;TZID=Asia/Tokyo:20200823T180000
-SEQUENCE:10
-SUMMARY:第1節(3) アンジュヴィオレ広島 - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m3.pdf
+SUMMARY:第1節(3) アンジュヴィオレ広島 3-2 福岡J・アンクラス
 LOCATION:広島県総合グランドメインスタジアム（広島県）
 END:VEVENT
 BEGIN:VEVENT
