@@ -93,8 +93,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200905T110000
 DTEND;TZID=Asia/Tokyo:20200905T130000
-SEQUENCE:10
-SUMMARY:第3節(7) 新潟医療福祉大学女子サッカー部 - NGUラブリッジ名古屋
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/east/match_report/m7.pdf
+SUMMARY:第3節(7) 新潟医療福祉大学女子サッカー部 1-1 NGUラブリッジ名古屋
 LOCATION:新潟聖籠スポーツセンター　アルビレッジ（人工芝）（新潟県）
 END:VEVENT
 BEGIN:VEVENT
@@ -104,8 +105,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200905T120000
 DTEND;TZID=Asia/Tokyo:20200905T140000
-SEQUENCE:10
-SUMMARY:第3節(8) ノルディーア北海道 - 静岡SSUアスレジーナ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/east/match_report/m8.pdf
+SUMMARY:第3節(8) ノルディーア北海道 2-1 静岡SSUアスレジーナ
 LOCATION:札幌サッカーアミューズメントパーク（天然芝）（北海道）
 END:VEVENT
 BEGIN:VEVENT
@@ -115,8 +117,9 @@ DTSTAMP:20200717T172401
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200906T160000
 DTEND;TZID=Asia/Tokyo:20200906T180000
-SEQUENCE:10
-SUMMARY:第3節(9) JFAアカデミー福島 - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/east/match_report/m9.pdf
+SUMMARY:第3節(9) JFAアカデミー福島 1-1 つくばFCレディース
 LOCATION:帝人アカデミー富士グラウンド（静岡県）
 END:VEVENT
 BEGIN:VEVENT

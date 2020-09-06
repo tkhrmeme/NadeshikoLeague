@@ -93,8 +93,9 @@ DTSTAMP:20200831T085439
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200905T120000
 DTEND;TZID=Asia/Tokyo:20200905T140000
-SEQUENCE:10
-SUMMARY:第3節(7) スペランツァ大阪高槻 - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m7.pdf
+SUMMARY:第3節(7) スペランツァ大阪高槻 1-2 吉備国際大学Charme岡山高梁
 LOCATION:高槻市立萩谷総合公園サッカー場（大阪府）
 END:VEVENT
 BEGIN:VEVENT
@@ -104,8 +105,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200905T160000
 DTEND;TZID=Asia/Tokyo:20200905T180000
-SEQUENCE:10
-SUMMARY:第3節(8) 福岡J・アンクラス - 岡山湯郷Belle
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m8.pdf
+SUMMARY:第3節(8) 福岡J・アンクラス 3-0 岡山湯郷Belle
 LOCATION:鳥栖市陸上競技場（佐賀県）
 END:VEVENT
 BEGIN:VEVENT
@@ -115,8 +117,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200906T120000
 DTEND;TZID=Asia/Tokyo:20200906T140000
-SEQUENCE:10
-SUMMARY:第3節(9) アンジュヴィオレ広島 - セレッソ大阪堺ガールズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m9.pdf
+SUMMARY:第3節(9) アンジュヴィオレ広島 4-1 セレッソ大阪堺ガールズ
 LOCATION:ミツトヨスポーツパーク郷原（広島県）
 END:VEVENT
 BEGIN:VEVENT
