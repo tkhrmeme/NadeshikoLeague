@@ -721,8 +721,9 @@ DTSTAMP:20200726T220834
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20200926T130000
 DTEND;TZID=Asia/Tokyo:20200926T150000
-SEQUENCE:10
-SUMMARY:第12節(56) マイナビベガルタ仙台レディース - ノジマステラ神奈川相模原
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m56.pdf
+SUMMARY:第12節(56) マイナビベガルタ仙台レディース 1-0 ノジマステラ神奈川相模原
 LOCATION:かくだスポーツビレッジ内角田市陸上競技場（宮城県）
 DESCRIPTION:有料
 END:VEVENT
@@ -785,8 +786,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201003T130000
 DTEND;TZID=Asia/Tokyo:20201003T150000
-SEQUENCE:10
-SUMMARY:第13節(61) ノジマステラ神奈川相模原 - 日テレ・東京ヴェルディベレーザ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m61.pdf
+SUMMARY:第13節(61) ノジマステラ神奈川相模原 2-1 日テレ・東京ヴェルディベレーザ
 LOCATION:相模原ギオンスタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -797,8 +799,9 @@ DTSTAMP:20200809T130532
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201003T140000
 DTEND;TZID=Asia/Tokyo:20201003T160000
-SEQUENCE:10
-SUMMARY:第13節(62) 浦和レッドダイヤモンズレディース - ジェフユナイテッド市原・千葉レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m62.pdf
+SUMMARY:第13節(62) 浦和レッドダイヤモンズレディース 3-0 ジェフユナイテッド市原・千葉レディース
 LOCATION:浦和駒場スタジアム（埼玉県）
 DESCRIPTION:有料
 END:VEVENT
@@ -809,8 +812,9 @@ DTSTAMP:20200809T130532
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201004T130000
 DTEND;TZID=Asia/Tokyo:20201004T150000
-SEQUENCE:10
-SUMMARY:第13節(63) セレッソ大阪堺レディース - アルビレックス新潟レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m63.pdf
+SUMMARY:第13節(63) セレッソ大阪堺レディース 2-1 アルビレックス新潟レディース
 LOCATION:Ｊ－ＧＲＥＥＮ堺Ｓ１メインフィールド（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -821,8 +825,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201004T130000
 DTEND;TZID=Asia/Tokyo:20201004T150000
-SEQUENCE:10
-SUMMARY:第13節(64) INAC神戸レオネッサ - 伊賀FCくノ一三重
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m64.pdf
+SUMMARY:第13節(64) INAC神戸レオネッサ 2-1 伊賀FCくノ一三重
 LOCATION:ノエビアスタジアム神戸（兵庫県）
 DESCRIPTION:有料
 END:VEVENT
@@ -833,8 +838,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201004T130000
 DTEND;TZID=Asia/Tokyo:20201004T150000
-SEQUENCE:10
-SUMMARY:第13節(65) 愛媛FCレディース - マイナビベガルタ仙台レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m65.pdf
+SUMMARY:第13節(65) 愛媛FCレディース 0-2 マイナビベガルタ仙台レディース
 LOCATION:愛媛県総合運動公園球技場（愛媛県）
 DESCRIPTION:有料
 END:VEVENT
