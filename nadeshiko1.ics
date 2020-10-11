@@ -851,8 +851,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201010T130000
 DTEND;TZID=Asia/Tokyo:20201010T150000
-SEQUENCE:10
-SUMMARY:第14節(66) 愛媛FCレディース - セレッソ大阪堺レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m66.pdf
+SUMMARY:第14節(66) 愛媛FCレディース 3-2 セレッソ大阪堺レディース
 LOCATION:愛媛県総合運動公園球技場（愛媛県）
 DESCRIPTION:有料
 END:VEVENT
@@ -863,8 +864,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201011T130000
 DTEND;TZID=Asia/Tokyo:20201011T150000
-SEQUENCE:10
-SUMMARY:第14節(67) 日テレ・東京ヴェルディベレーザ - 浦和レッドダイヤモンズレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m67.pdf
+SUMMARY:第14節(67) 日テレ・東京ヴェルディベレーザ 3-2 浦和レッドダイヤモンズレディース
 LOCATION:ＡＧＦフィールド（東京都）
 DESCRIPTION:有料
 END:VEVENT
@@ -875,8 +877,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201011T130000
 DTEND;TZID=Asia/Tokyo:20201011T150000
-SEQUENCE:10
-SUMMARY:第14節(68) アルビレックス新潟レディース - ノジマステラ神奈川相模原
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m68.pdf
+SUMMARY:第14節(68) アルビレックス新潟レディース 1-0 ノジマステラ神奈川相模原
 LOCATION:十日町市当間多目的グラウンド クロアチアピッチ（新潟県）
 DESCRIPTION:有料
 END:VEVENT
@@ -887,8 +890,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201011T130000
 DTEND;TZID=Asia/Tokyo:20201011T150000
-SEQUENCE:10
-SUMMARY:第14節(69) 伊賀FCくノ一三重 - ジェフユナイテッド市原・千葉レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m69.pdf
+SUMMARY:第14節(69) 伊賀FCくノ一三重 0-5 ジェフユナイテッド市原・千葉レディース
 LOCATION:上野運動公園競技場（三重県）
 DESCRIPTION:有料
 END:VEVENT
@@ -899,8 +903,9 @@ DTSTAMP:20200624T173335
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201011T130000
 DTEND;TZID=Asia/Tokyo:20201011T150000
-SEQUENCE:10
-SUMMARY:第14節(70) INAC神戸レオネッサ - マイナビベガルタ仙台レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/nadeshiko1/match_report/m70.pdf
+SUMMARY:第14節(70) INAC神戸レオネッサ 3-0 マイナビベガルタ仙台レディース
 LOCATION:ノエビアスタジアム神戸（兵庫県）
 DESCRIPTION:有料
 END:VEVENT
