@@ -166,8 +166,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201011T130000
 DTEND;TZID=Asia/Tokyo:20201011T150000
-SEQUENCE:10
-SUMMARY:第5節(13) スペランツァ大阪高槻 - アンジュヴィオレ広島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m13.pdf
+SUMMARY:第5節(13) スペランツァ大阪高槻 1-1 アンジュヴィオレ広島
 LOCATION:Ｊ－ＧＲＥＥＮ堺Ｓ２（大阪府）
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +178,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201011T130000
 DTEND;TZID=Asia/Tokyo:20201011T150000
-SEQUENCE:10
-SUMMARY:第5節(14) 岡山湯郷Belle - セレッソ大阪堺ガールズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m14.pdf
+SUMMARY:第5節(14) 岡山湯郷Belle 0-1 セレッソ大阪堺ガールズ
 LOCATION:岡山県津山陸上競技場（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -189,8 +191,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201011T130000
 DTEND;TZID=Asia/Tokyo:20201011T150000
-SEQUENCE:10
-SUMMARY:第5節(15) 吉備国際大学Charme岡山高梁 - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m15.pdf
+SUMMARY:第5節(15) 吉備国際大学Charme岡山高梁 1-2 福岡J・アンクラス
 LOCATION:高梁市神原スポーツ公園多目的グラウンド（岡山県）
 DESCRIPTION:有料
 END:VEVENT
