@@ -280,8 +280,9 @@ DTSTAMP:20200904T192944
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201031T140000
 DTEND;TZID=Asia/Tokyo:20201031T160000
-SEQUENCE:10
-SUMMARY:第8節(22) 福岡J・アンクラス - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m22.pdf
+SUMMARY:第8節(22) 福岡J・アンクラス 1-1 吉備国際大学Charme岡山高梁
 LOCATION:福岡フットボールセンター（福岡県）
 END:VEVENT
 BEGIN:VEVENT
@@ -291,8 +292,9 @@ DTSTAMP:20200904T192944
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201101T130000
 DTEND;TZID=Asia/Tokyo:20201101T150000
-SEQUENCE:10
-SUMMARY:第8節(23) アンジュヴィオレ広島 - スペランツァ大阪高槻
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m23.pdf
+SUMMARY:第8節(23) アンジュヴィオレ広島 2-1 スペランツァ大阪高槻
 LOCATION:広島県総合グランドメインスタジアム（広島県）
 DESCRIPTION:有料
 END:VEVENT
@@ -314,8 +316,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201115T130000
 DTEND;TZID=Asia/Tokyo:20201115T150000
-SEQUENCE:10
-SUMMARY:第9節(25) 岡山湯郷Belle - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m25.pdf
+SUMMARY:第9節(25) 岡山湯郷Belle 1-1 福岡J・アンクラス
 LOCATION:岡山県津山陸上競技場（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -326,8 +329,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201115T130000
 DTEND;TZID=Asia/Tokyo:20201115T150000
-SEQUENCE:10
-SUMMARY:第9節(26) 吉備国際大学Charme岡山高梁 - スペランツァ大阪高槻
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m26.pdf
+SUMMARY:第9節(26) 吉備国際大学Charme岡山高梁 0-0 スペランツァ大阪高槻
 LOCATION:高梁市神原スポーツ公園多目的グラウンド（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -338,8 +342,9 @@ DTSTAMP:20200708T212925
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20201115T153000
 DTEND;TZID=Asia/Tokyo:20201115T173000
-SEQUENCE:10
-SUMMARY:第9節(27) セレッソ大阪堺ガールズ - アンジュヴィオレ広島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2020/west/match_report/m27.pdf
+SUMMARY:第9節(27) セレッソ大阪堺ガールズ 1-1 アンジュヴィオレ広島
 LOCATION:ヤンマースタジアム長居（大阪府）
 END:VEVENT
 BEGIN:VEVENT
