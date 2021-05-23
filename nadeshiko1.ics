@@ -604,8 +604,9 @@ DTSTAMP:20210217T074234
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210522T130000
 DTEND;TZID=Asia/Tokyo:20210522T150000
-SEQUENCE:10
-SUMMARY:第9節(49) ニッパツ横浜FCシーガルズ - コノミヤ・スペランツァ大阪高槻
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m49.pdf
+SUMMARY:第9節(49) ニッパツ横浜FCシーガルズ 2-1 コノミヤ・スペランツァ大阪高槻
 LOCATION:ニッパツ三ツ沢球技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -616,8 +617,9 @@ DTSTAMP:20210217T074234
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210523T130000
 DTEND;TZID=Asia/Tokyo:20210523T150000
-SEQUENCE:10
-SUMMARY:第9節(50) NGUラブリッジ名古屋 - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m50.pdf
+SUMMARY:第9節(50) NGUラブリッジ名古屋 3-0 大和シルフィード
 LOCATION:名古屋市港サッカ－場（愛知県）
 DESCRIPTION:有料
 END:VEVENT
@@ -628,8 +630,9 @@ DTSTAMP:20210217T074234
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210523T130000
 DTEND;TZID=Asia/Tokyo:20210523T150000
-SEQUENCE:10
-SUMMARY:第9節(51) 伊賀FCくノ一三重 - 愛媛FCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m51.pdf
+SUMMARY:第9節(51) 伊賀FCくノ一三重 3-1 愛媛FCレディース
 LOCATION:上野運動公園競技場（三重県）
 DESCRIPTION:有料
 END:VEVENT
@@ -640,8 +643,9 @@ DTSTAMP:20210217T074234
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210523T130000
 DTEND;TZID=Asia/Tokyo:20210523T150000
-SEQUENCE:10
-SUMMARY:第9節(52) セレッソ大阪堺レディース - オルカ鴨川FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m52.pdf
+SUMMARY:第9節(52) セレッソ大阪堺レディース 3-0 オルカ鴨川FC
 LOCATION:セレッソ大阪舞洲グラウンド（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -652,8 +656,9 @@ DTSTAMP:20210217T074234
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210523T140000
 DTEND;TZID=Asia/Tokyo:20210523T160000
-SEQUENCE:10
-SUMMARY:第9節(53) スフィーダ世田谷FC - 日体大FIELDS横浜
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m53.pdf
+SUMMARY:第9節(53) スフィーダ世田谷FC 1-0 日体大FIELDS横浜
 LOCATION:ＡＧＦフィールド（東京都）
 DESCRIPTION:有料
 END:VEVENT
@@ -664,8 +669,9 @@ DTSTAMP:20210217T074234
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210523T140000
 DTEND;TZID=Asia/Tokyo:20210523T160000
-SEQUENCE:10
-SUMMARY:第9節(54) アンジュヴィオレ広島 - ASハリマアルビオン
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m54.pdf
+SUMMARY:第9節(54) アンジュヴィオレ広島 1-4 ASハリマアルビオン
 LOCATION:三次市みよし運動公園陸上競技場（広島県）
 DESCRIPTION:有料
 END:VEVENT
