@@ -1108,8 +1108,9 @@ DTSTAMP:20210312T193543
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210710T150000
 DTEND;TZID=Asia/Tokyo:20210710T170000
-SEQUENCE:10
-SUMMARY:第15節(85) コノミヤ・スペランツァ大阪高槻 - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m85.pdf
+SUMMARY:第15節(85) コノミヤ・スペランツァ大阪高槻 2-2 大和シルフィード
 LOCATION:高槻市萩谷総合公園サッカー場（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -1120,8 +1121,9 @@ DTSTAMP:20210217T074234
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210710T150000
 DTEND;TZID=Asia/Tokyo:20210710T170000
-SEQUENCE:10
-SUMMARY:第15節(86) 愛媛FCレディース - ニッパツ横浜FCシーガルズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m86.pdf
+SUMMARY:第15節(86) 愛媛FCレディース 0-4 ニッパツ横浜FCシーガルズ
 LOCATION:愛媛県総合運動公園球技場（愛媛県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1132,8 +1134,9 @@ DTSTAMP:20210217T074234
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210710T160000
 DTEND;TZID=Asia/Tokyo:20210710T180000
-SEQUENCE:10
-SUMMARY:第15節(87) 伊賀FCくノ一三重 - ASハリマアルビオン
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m87.pdf
+SUMMARY:第15節(87) 伊賀FCくノ一三重 2-1 ASハリマアルビオン
 LOCATION:三重交通Ｇ　スポーツの杜　鈴鹿（三重県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1144,8 +1147,9 @@ DTSTAMP:20210312T193543
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210710T160000
 DTEND;TZID=Asia/Tokyo:20210710T180000
-SEQUENCE:10
-SUMMARY:第15節(88) セレッソ大阪堺レディース - アンジュヴィオレ広島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m88.pdf
+SUMMARY:第15節(88) セレッソ大阪堺レディース 6-1 アンジュヴィオレ広島
 LOCATION:セレッソ大阪舞洲グラウンド（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -1156,8 +1160,9 @@ DTSTAMP:20210312T193543
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210710T180000
 DTEND;TZID=Asia/Tokyo:20210710T200000
-SEQUENCE:10
-SUMMARY:第15節(89) オルカ鴨川FC - スフィーダ世田谷FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m89.pdf
+SUMMARY:第15節(89) オルカ鴨川FC 1-1 スフィーダ世田谷FC
 LOCATION:フクダ電子アリーナ（千葉県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1168,8 +1173,9 @@ DTSTAMP:20210217T074234
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20210711T150000
 DTEND;TZID=Asia/Tokyo:20210711T170000
-SEQUENCE:10
-SUMMARY:第15節(90) NGUラブリッジ名古屋 - 日体大FIELDS横浜
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko1/match_report/m90.pdf
+SUMMARY:第15節(90) NGUラブリッジ名古屋 0-0 日体大FIELDS横浜
 LOCATION:名古屋市港サッカ－場（愛知県）
 DESCRIPTION:有料
 END:VEVENT
