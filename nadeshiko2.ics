@@ -663,8 +663,9 @@ DTSTAMP:20210228T151242
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20211010T130000
 DTEND;TZID=Asia/Tokyo:20211010T150000
-SEQUENCE:10
-SUMMARY:第14節(53) バニーズ群馬FCホワイトスター - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko2/match_report/m53.pdf
+SUMMARY:第14節(53) バニーズ群馬FCホワイトスター 3-1 つくばFCレディース
 LOCATION:アースケア敷島サッカー・ラグビー場（群馬県）
 END:VEVENT
 BEGIN:VEVENT
@@ -674,8 +675,9 @@ DTSTAMP:20210228T151242
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20211010T130000
 DTEND;TZID=Asia/Tokyo:20211010T150000
-SEQUENCE:10
-SUMMARY:第14節(54) 岡山湯郷Belle - JFAアカデミー福島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko2/match_report/m54.pdf
+SUMMARY:第14節(54) 岡山湯郷Belle 0-1 JFAアカデミー福島
 LOCATION:Axisバードスタジアム（鳥取県）
 DESCRIPTION:有料
 END:VEVENT
@@ -686,8 +688,9 @@ DTSTAMP:20210228T151242
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20211010T130000
 DTEND;TZID=Asia/Tokyo:20211010T150000
-SEQUENCE:10
-SUMMARY:第14節(55) 吉備国際大学Charme岡山高梁 - ノルディーア北海道
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko2/match_report/m55.pdf
+SUMMARY:第14節(55) 吉備国際大学Charme岡山高梁 0-0 ノルディーア北海道
 LOCATION:高梁市神原スポーツ公園多目的グラウンド（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -698,8 +701,9 @@ DTSTAMP:20210228T151242
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20211010T130000
 DTEND;TZID=Asia/Tokyo:20211010T150000
-SEQUENCE:10
-SUMMARY:第14節(56) 福岡J・アンクラス - 静岡SSUアスレジーナ
-LOCATION:未定
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2021/nadeshiko2/match_report/m56.pdf
+SUMMARY:第14節(56) 福岡J・アンクラス 0-3 静岡SSUアスレジーナ
+LOCATION:福岡フットボールセンター
 END:VEVENT
 END:VCALENDAR
