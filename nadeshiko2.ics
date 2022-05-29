@@ -574,8 +574,9 @@ DTSTAMP:20220222T173214
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220528T130000
 DTEND;TZID=Asia/Tokyo:20220528T150000
-SEQUENCE:10
-SUMMARY:第10節(46) ノルディーア北海道 - JFAアカデミー福島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m46.pdf
+SUMMARY:第10節(46) ノルディーア北海道 0-5 JFAアカデミー福島
 LOCATION:札幌厚別公園競技場（北海道）
 END:VEVENT
 BEGIN:VEVENT
@@ -585,8 +586,9 @@ DTSTAMP:20220417T211610
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220528T130000
 DTEND;TZID=Asia/Tokyo:20220528T150000
-SEQUENCE:10
-SUMMARY:第10節(47) 大和シルフィード - ヴィアティン三重レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m47.pdf
+SUMMARY:第10節(47) 大和シルフィード 2-1 ヴィアティン三重レディース
 LOCATION:日産スタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -597,8 +599,9 @@ DTSTAMP:20220404T104527
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220528T160000
 DTEND;TZID=Asia/Tokyo:20220528T180000
-SEQUENCE:10
-SUMMARY:第10節(48) 福岡J・アンクラス - ディアヴォロッソ広島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m48.pdf
+SUMMARY:第10節(48) 福岡J・アンクラス 0-3 ディアヴォロッソ広島
 LOCATION:鳥栖市陸上競技場（佐賀県）
 DESCRIPTION:有料
 END:VEVENT
@@ -609,8 +612,9 @@ DTSTAMP:20220204T181807
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220529T130000
 DTEND;TZID=Asia/Tokyo:20220529T150000
-SEQUENCE:10
-SUMMARY:第10節(49) 静岡SSUボニータ - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m49.pdf
+SUMMARY:第10節(49) 静岡SSUボニータ 1-1 つくばFCレディース
 LOCATION:磐田スポーツ交流の里ゆめりあサッカー場（静岡県）
 DESCRIPTION:有料
 END:VEVENT
@@ -621,8 +625,9 @@ DTSTAMP:20220204T181807
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220529T130000
 DTEND;TZID=Asia/Tokyo:20220529T150000
-SEQUENCE:10
-SUMMARY:第10節(50) 岡山湯郷Belle - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m50.pdf
+SUMMARY:第10節(50) 岡山湯郷Belle 0-2 吉備国際大学Charme岡山高梁
 LOCATION:岡山県美作ラグビー・サッカー場メインスタジアム（岡山県）
 DESCRIPTION:有料
 END:VEVENT
