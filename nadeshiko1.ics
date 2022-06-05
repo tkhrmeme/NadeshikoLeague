@@ -811,8 +811,9 @@ DTSTAMP:20220204T181807
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220528T130000
 DTEND;TZID=Asia/Tokyo:20220528T150000
-SEQUENCE:10
-SUMMARY:第11節(62) 朝日インテック・ラブリッジ名古屋 - ASハリマアルビオン
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko1/match_report/m62.pdf
+SUMMARY:第11節(62) 朝日インテック・ラブリッジ名古屋 1-1 ASハリマアルビオン
 LOCATION:豊田市運動公園陸上競技場（愛知県）
 DESCRIPTION:有料
 END:VEVENT
@@ -875,9 +876,23 @@ DTSTAMP:20220204T181807
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220604T120000
 DTEND;TZID=Asia/Tokyo:20220604T140000
-SEQUENCE:10
-SUMMARY:第12節(67) 日体大SMG横浜 - 伊賀FCくノ一三重
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko1/match_report/m67.pdf
+SUMMARY:第12節(67) 日体大SMG横浜 1-0 伊賀FCくノ一三重
 LOCATION:神奈川県立保土ケ谷公園サッカー場（神奈川県）
+DESCRIPTION:有料
+END:VEVENT
+BEGIN:VEVENT
+UID:e72a9dd2b3b811ecbf7f787b8ad287bf
+CREATED:20220404T104527
+DTSTAMP:20220404T104527
+TRANSP:OPAQUE
+DTSTART;TZID=Asia/Tokyo:20220604T160000
+DTEND;TZID=Asia/Tokyo:20220604T180000
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko1/match_report/m68.pdf
+SUMMARY:第12節(68) 朝日インテック・ラブリッジ名古屋 1-0 セレッソ大阪堺レディース
+LOCATION:豊田市運動公園陸上競技場（愛知県）
 DESCRIPTION:有料
 END:VEVENT
 BEGIN:VEVENT
@@ -887,8 +902,9 @@ DTSTAMP:20220204T181807
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220605T130000
 DTEND;TZID=Asia/Tokyo:20220605T150000
-SEQUENCE:10
-SUMMARY:第12節(68) オルカ鴨川FC - バニーズ群馬FCホワイトスター
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko1/match_report/m69.pdf
+SUMMARY:第12節(69) オルカ鴨川FC 2-0 バニーズ群馬FCホワイトスター
 LOCATION:鴨川市陸上競技場（千葉県）
 DESCRIPTION:有料
 END:VEVENT
@@ -899,8 +915,9 @@ DTSTAMP:20220204T181807
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220605T130000
 DTEND;TZID=Asia/Tokyo:20220605T150000
-SEQUENCE:10
-SUMMARY:第12節(69) スペランツァ大阪 - 愛媛FCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko1/match_report/m70.pdf
+SUMMARY:第12節(70) スペランツァ大阪 1-1 愛媛FCレディース
 LOCATION:万博記念競技場（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -911,8 +928,9 @@ DTSTAMP:20220222T173214
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220605T130000
 DTEND;TZID=Asia/Tokyo:20220605T150000
-SEQUENCE:10
-SUMMARY:第12節(70) ASハリマアルビオン - ニッパツ横浜FCシーガルズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko1/match_report/m71.pdf
+SUMMARY:第12節(71) ASハリマアルビオン 3-0 ニッパツ横浜FCシーガルズ
 LOCATION:兵庫県立明石公園きしろスタジアム（兵庫県）
 DESCRIPTION:有料
 END:VEVENT
@@ -923,21 +941,10 @@ DTSTAMP:20220204T181807
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220605T140000
 DTEND;TZID=Asia/Tokyo:20220605T160000
-SEQUENCE:10
-SUMMARY:第12節(71) アンジュヴィオレ広島 - スフィーダ世田谷FC
-LOCATION:広島県立びんご運動公園陸上競技場（広島県）
-DESCRIPTION:有料
-END:VEVENT
-BEGIN:VEVENT
-UID:e72a9dd2b3b811ecbf7f787b8ad287bf
-CREATED:20220404T104527
-DTSTAMP:20220404T104527
-TRANSP:OPAQUE
-DTSTART;TZID=Asia/Tokyo:20220604T160000
-DTEND;TZID=Asia/Tokyo:20220604T180000
-SEQUENCE:10
-SUMMARY:第12節(72) 朝日インテック・ラブリッジ名古屋 - セレッソ大阪堺レディース
-LOCATION:豊田市運動公園陸上競技場（愛知県）
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko1/match_report/m72.pdf
+SUMMARY:第12節(72) アンジュヴィオレ広島 0-2 スフィーダ世田谷FC
+LOCATION:こざかなくんスポーツパークびんご　ダッシュこざかなくん陸上競技場（広島県立びんご運動公園陸上競技場）（広島県）
 DESCRIPTION:有料
 END:VEVENT
 BEGIN:VEVENT
