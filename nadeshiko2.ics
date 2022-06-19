@@ -764,8 +764,9 @@ DTSTAMP:20220204T181807
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220618T130000
 DTEND;TZID=Asia/Tokyo:20220618T150000
-SEQUENCE:10
-SUMMARY:第13節(61) 岡山湯郷Belle - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m61.pdf
+SUMMARY:第13節(61) 岡山湯郷Belle 3-3 つくばFCレディース
 LOCATION:岡山県美作ラグビー・サッカー場メインスタジアム（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -776,8 +777,9 @@ DTSTAMP:20220204T181807
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220618T140000
 DTEND;TZID=Asia/Tokyo:20220618T160000
-SEQUENCE:10
-SUMMARY:第13節(62) JFAアカデミー福島 - 静岡SSUボニータ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m62.pdf
+SUMMARY:第13節(62) JFAアカデミー福島 0-0 静岡SSUボニータ
 LOCATION:時之栖スポーツセンター裾野グラウンド天然芝（静岡県）
 END:VEVENT
 BEGIN:VEVENT
@@ -787,8 +789,9 @@ DTSTAMP:20220222T173214
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220619T110000
 DTEND;TZID=Asia/Tokyo:20220619T130000
-SEQUENCE:10
-SUMMARY:第13節(63) ノルディーア北海道 - ヴィアティン三重レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m63.pdf
+SUMMARY:第13節(63) ノルディーア北海道 1-0 ヴィアティン三重レディース
 LOCATION:札幌サッカーアミューズメントパーク（天然芝）（北海道）
 END:VEVENT
 BEGIN:VEVENT
@@ -798,8 +801,9 @@ DTSTAMP:20220417T211610
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220619T130000
 DTEND;TZID=Asia/Tokyo:20220619T150000
-SEQUENCE:10
-SUMMARY:第13節(64) ディアヴォロッソ広島 - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m64.pdf
+SUMMARY:第13節(64) ディアヴォロッソ広島 0-0 吉備国際大学Charme岡山高梁
 LOCATION:ミツトヨスポーツパーク郷原（広島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -809,8 +813,9 @@ DTSTAMP:20220404T104527
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20220619T150000
 DTEND;TZID=Asia/Tokyo:20220619T170000
-SEQUENCE:10
-SUMMARY:第13節(65) 大和シルフィード - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2022/nadeshiko2/match_report/m65.pdf
+SUMMARY:第13節(65) 大和シルフィード 2-0 福岡J・アンクラス
 LOCATION:IIMURO GLASS綾瀬市民スポーツセンター陸上競技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
