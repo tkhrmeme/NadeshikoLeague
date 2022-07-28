@@ -1348,7 +1348,7 @@ DTSTART;TZID=Asia/Tokyo:20220917T130000
 DTEND;TZID=Asia/Tokyo:20220917T150000
 SEQUENCE:10
 SUMMARY:第18節(104) 朝日インテック・ラブリッジ名古屋 - スペランツァ大阪
-LOCATION:名古屋市港サッカー場（愛知県）
+LOCATION:ＣＳアセット港サッカー場（名古屋市港サッカー場）（愛知県）
 DESCRIPTION:有料
 END:VEVENT
 BEGIN:VEVENT
