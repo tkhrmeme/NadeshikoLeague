@@ -333,8 +333,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230415T130000
 DTEND;TZID=Asia/Tokyo:20230415T150000
-SEQUENCE:10
-SUMMARY:第5節(25) 朝日インテック・ラブリッジ名古屋 - 静岡SSUボニータ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m25.pdf
+SUMMARY:第5節(25) 朝日インテック・ラブリッジ名古屋 6-1 静岡SSUボニータ
 LOCATION:ＣＳアセット港サッカー場（愛知県）
 DESCRIPTION:有料
 END:VEVENT
@@ -345,8 +346,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230415T130000
 DTEND;TZID=Asia/Tokyo:20230415T150000
-SEQUENCE:10
-SUMMARY:第5節(26) スペランツァ大阪 - ニッパツ横浜FCシーガルズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m26.pdf
+SUMMARY:第5節(26) スペランツァ大阪 1-2 ニッパツ横浜FCシーガルズ
 LOCATION:J-GREEN堺S1メインフィールド（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -357,8 +359,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230416T130000
 DTEND;TZID=Asia/Tokyo:20230416T150000
-SEQUENCE:10
-SUMMARY:第5節(27) 大和シルフィード - 愛媛FCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m27.pdf
+SUMMARY:第5節(27) 大和シルフィード 2-2 愛媛FCレディース
 LOCATION:大和なでしこスタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -369,8 +372,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230416T130000
 DTEND;TZID=Asia/Tokyo:20230416T150000
-SEQUENCE:10
-SUMMARY:第5節(28) 伊賀FCくノ一三重 - バニーズ群馬FCホワイトスター
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m28.pdf
+SUMMARY:第5節(28) 伊賀FCくノ一三重 1-1 バニーズ群馬FCホワイトスター
 LOCATION:上野運動公園競技場（三重県）
 DESCRIPTION:有料
 END:VEVENT
@@ -381,8 +385,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230416T130000
 DTEND;TZID=Asia/Tokyo:20230416T150000
-SEQUENCE:10
-SUMMARY:第5節(29) ASハリマアルビオン - オルカ鴨川FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m29.pdf
+SUMMARY:第5節(29) ASハリマアルビオン 0-2 オルカ鴨川FC
 LOCATION:ウインク陸上競技場（兵庫県）
 DESCRIPTION:有料
 END:VEVENT
@@ -393,8 +398,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230416T140000
 DTEND;TZID=Asia/Tokyo:20230416T160000
-SEQUENCE:10
-SUMMARY:第5節(30) スフィーダ世田谷FC - 日体大SMG横浜
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m30.pdf
+SUMMARY:第5節(30) スフィーダ世田谷FC 1-1 日体大SMG横浜
 LOCATION:ＡＧＦフィールド（東京都）
 DESCRIPTION:有料
 END:VEVENT
