@@ -411,8 +411,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230422T130000
 DTEND;TZID=Asia/Tokyo:20230422T150000
-SEQUENCE:10
-SUMMARY:第6節(31) バニーズ群馬FCホワイトスター - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m31.pdf
+SUMMARY:第6節(31) バニーズ群馬FCホワイトスター 3-1 大和シルフィード
 LOCATION:アースケア敷島サッカー・ラグビー場（群馬県）
 DESCRIPTION:有料
 END:VEVENT
@@ -423,8 +424,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230422T130000
 DTEND;TZID=Asia/Tokyo:20230422T150000
-SEQUENCE:10
-SUMMARY:第6節(32) 静岡SSUボニータ - 伊賀FCくノ一三重
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m32.pdf
+SUMMARY:第6節(32) 静岡SSUボニータ 0-0 伊賀FCくノ一三重
 LOCATION:磐田スポーツ交流の里ゆめりあサッカー場（静岡県）
 DESCRIPTION:有料
 END:VEVENT
@@ -435,8 +437,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230422T130000
 DTEND;TZID=Asia/Tokyo:20230422T150000
-SEQUENCE:10
-SUMMARY:第6節(33) 愛媛FCレディース - スペランツァ大阪
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m33.pdf
+SUMMARY:第6節(33) 愛媛FCレディース 1-0 スペランツァ大阪
 LOCATION:愛媛県総合運動公園球技場（愛媛県）
 DESCRIPTION:有料
 END:VEVENT
@@ -447,8 +450,8 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230423T120000
 DTEND;TZID=Asia/Tokyo:20230423T140000
-SEQUENCE:10
-SUMMARY:第6節(34) 日体大SMG横浜 - ASハリマアルビオン
+SEQUENCE:11
+SUMMARY:第6節(34) 日体大SMG横浜 1-2 ASハリマアルビオン
 LOCATION:神奈川県立保土ケ谷公園サッカー場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -459,8 +462,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230423T130000
 DTEND;TZID=Asia/Tokyo:20230423T150000
-SEQUENCE:10
-SUMMARY:第6節(35) オルカ鴨川FC - 朝日インテック・ラブリッジ名古屋
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m35.pdf
+SUMMARY:第6節(35) オルカ鴨川FC 0-1 朝日インテック・ラブリッジ名古屋
 LOCATION:鴨川市陸上競技場（千葉県）
 DESCRIPTION:有料
 END:VEVENT
@@ -471,8 +475,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230423T130000
 DTEND;TZID=Asia/Tokyo:20230423T150000
-SEQUENCE:10
-SUMMARY:第6節(36) ニッパツ横浜FCシーガルズ - スフィーダ世田谷FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m36.pdf
+SUMMARY:第6節(36) ニッパツ横浜FCシーガルズ 3-0 スフィーダ世田谷FC
 LOCATION:ニッパツ三ツ沢球技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
