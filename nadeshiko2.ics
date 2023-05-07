@@ -259,6 +259,7 @@ TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230423T130000
 DTEND;TZID=Asia/Tokyo:20230423T150000
 SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m20.pdf
 SUMMARY:第4節(20) 福岡J・アンクラス 1-1 FCふじざくら山梨
 LOCATION:小郡市陸上競技場
 END:VEVENT
@@ -269,8 +270,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230429T130000
 DTEND;TZID=Asia/Tokyo:20230429T150000
-SEQUENCE:10
-SUMMARY:第5節(21) ヴィアマテラス宮崎 - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m21.pdf
+SUMMARY:第5節(21) ヴィアマテラス宮崎 3-1 つくばFCレディース
 LOCATION:新富町フットボールセンター
 END:VEVENT
 BEGIN:VEVENT
@@ -280,8 +282,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230430T110000
 DTEND;TZID=Asia/Tokyo:20230430T130000
-SEQUENCE:10
-SUMMARY:第5節(22) JFAアカデミー福島 - ノルディーア北海道
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m22.pdf
+SUMMARY:第5節(22) JFAアカデミー福島 4-0 ノルディーア北海道
 LOCATION:時之栖スポーツセンター裾野グラウンド天然芝（静岡県）
 END:VEVENT
 BEGIN:VEVENT
@@ -291,8 +294,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230430T130000
 DTEND;TZID=Asia/Tokyo:20230430T150000
-SEQUENCE:10
-SUMMARY:第5節(23) FCふじざくら山梨 - ヴィアティン三重レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m23.pdf
+SUMMARY:第5節(23) FCふじざくら山梨 1-0 ヴィアティン三重レディース
 LOCATION:富士山の銘水スタジアム（山梨県）
 END:VEVENT
 BEGIN:VEVENT
@@ -302,8 +306,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230430T130000
 DTEND;TZID=Asia/Tokyo:20230430T150000
-SEQUENCE:10
-SUMMARY:第5節(24) 岡山湯郷Belle - ディアヴォロッソ広島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m24.pdf
+SUMMARY:第5節(24) 岡山湯郷Belle 7-0 ディアヴォロッソ広島
 LOCATION:岡山県美作ラグビー・サッカー場（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -314,8 +319,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230430T130000
 DTEND;TZID=Asia/Tokyo:20230430T150000
-SEQUENCE:10
-SUMMARY:第5節(25) 吉備国際大学Charme岡山高梁 - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m25.pdf
+SUMMARY:第5節(25) 吉備国際大学Charme岡山高梁 1-1 福岡J・アンクラス
 LOCATION:倉敷運動公園陸上競技場（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -326,8 +332,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230506T130000
 DTEND;TZID=Asia/Tokyo:20230506T150000
-SEQUENCE:10
-SUMMARY:第6節(26) ディアヴォロッソ広島 - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m26.pdf
+SUMMARY:第6節(26) ディアヴォロッソ広島 0-1 福岡J・アンクラス
 LOCATION:広島広域公園第一球技場
 END:VEVENT
 BEGIN:VEVENT
@@ -337,8 +344,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230507T110000
 DTEND;TZID=Asia/Tokyo:20230507T130000
-SEQUENCE:10
-SUMMARY:第6節(27) ノルディーア北海道 - ヴィアマテラス宮崎
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m27.pdf
+SUMMARY:第6節(27) ノルディーア北海道 0-9 ヴィアマテラス宮崎
 LOCATION:札幌サッカーアミューズメントパーク（天然芝）
 END:VEVENT
 BEGIN:VEVENT
@@ -348,8 +356,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230507T110000
 DTEND;TZID=Asia/Tokyo:20230507T130000
-SEQUENCE:10
-SUMMARY:第6節(28) JFAアカデミー福島 - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m28.pdf
+SUMMARY:第6節(28) JFAアカデミー福島 1-0 吉備国際大学Charme岡山高梁
 LOCATION:裾野市運動公園陸上競技場（静岡県）
 END:VEVENT
 BEGIN:VEVENT
@@ -359,8 +368,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230507T130000
 DTEND;TZID=Asia/Tokyo:20230507T150000
-SEQUENCE:10
-SUMMARY:第6節(29) FCふじざくら山梨 - 岡山湯郷Belle
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m29.pdf
+SUMMARY:第6節(29) FCふじざくら山梨 4-2 岡山湯郷Belle
 LOCATION:富士山の銘水スタジアム（山梨県）
 END:VEVENT
 BEGIN:VEVENT
@@ -370,8 +380,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230507T130000
 DTEND;TZID=Asia/Tokyo:20230507T150000
-SEQUENCE:10
-SUMMARY:第6節(30) ヴィアティン三重レディース - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m30.pdf
+SUMMARY:第6節(30) ヴィアティン三重レディース 2-0 つくばFCレディース
 LOCATION:LA・PITA東員スタジアム（三重県）
 DESCRIPTION:有料
 END:VEVENT
