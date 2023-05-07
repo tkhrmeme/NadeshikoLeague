@@ -451,6 +451,7 @@ TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230423T120000
 DTEND;TZID=Asia/Tokyo:20230423T140000
 SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m34.pdf
 SUMMARY:第6節(34) 日体大SMG横浜 1-2 ASハリマアルビオン
 LOCATION:神奈川県立保土ケ谷公園サッカー場（神奈川県）
 DESCRIPTION:有料
@@ -488,8 +489,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230429T130000
 DTEND;TZID=Asia/Tokyo:20230429T150000
-SEQUENCE:10
-SUMMARY:第7節(37) ニッパツ横浜FCシーガルズ - 愛媛FCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m37.pdf
+SUMMARY:第7節(37) ニッパツ横浜FCシーガルズ 2-1 愛媛FCレディース
 LOCATION:神奈川県立保土ケ谷公園サッカー場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -500,8 +502,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230430T130000
 DTEND;TZID=Asia/Tokyo:20230430T150000
-SEQUENCE:10
-SUMMARY:第7節(38) 大和シルフィード - 静岡SSUボニータ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m38.pdf
+SUMMARY:第7節(38) 大和シルフィード 2-1 静岡SSUボニータ
 LOCATION:大和なでしこスタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -512,8 +515,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230430T130000
 DTEND;TZID=Asia/Tokyo:20230430T150000
-SEQUENCE:10
-SUMMARY:第7節(39) 朝日インテック・ラブリッジ名古屋 - 日体大SMG横浜
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m39.pdf
+SUMMARY:第7節(39) 朝日インテック・ラブリッジ名古屋 0-1 日体大SMG横浜
 LOCATION:ＣＳアセット港サッカー場（愛知県）
 DESCRIPTION:有料
 END:VEVENT
@@ -524,8 +528,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230430T130000
 DTEND;TZID=Asia/Tokyo:20230430T150000
-SEQUENCE:10
-SUMMARY:第7節(40) 伊賀FCくノ一三重 - オルカ鴨川FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m40.pdf
+SUMMARY:第7節(40) 伊賀FCくノ一三重 2-1 オルカ鴨川FC
 LOCATION:上野運動公園競技場（三重県）
 DESCRIPTION:有料
 END:VEVENT
@@ -536,8 +541,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230430T130000
 DTEND;TZID=Asia/Tokyo:20230430T150000
-SEQUENCE:10
-SUMMARY:第7節(41) スペランツァ大阪 - バニーズ群馬FCホワイトスター
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m41.pdf
+SUMMARY:第7節(41) スペランツァ大阪 3-1 バニーズ群馬FCホワイトスター
 LOCATION:J-GREEN堺S1メインフィールド（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -548,8 +554,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230430T140000
 DTEND;TZID=Asia/Tokyo:20230430T160000
-SEQUENCE:10
-SUMMARY:第7節(42) スフィーダ世田谷FC - ASハリマアルビオン
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m42.pdf
+SUMMARY:第7節(42) スフィーダ世田谷FC 3-0 ASハリマアルビオン
 LOCATION:味の素フィールド西が丘（東京都）
 DESCRIPTION:有料
 END:VEVENT
@@ -560,8 +567,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230506T130000
 DTEND;TZID=Asia/Tokyo:20230506T150000
-SEQUENCE:10
-SUMMARY:第8節(43) バニーズ群馬FCホワイトスター - ニッパツ横浜FCシーガルズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m43.pdf
+SUMMARY:第8節(43) バニーズ群馬FCホワイトスター 2-2 ニッパツ横浜FCシーガルズ
 LOCATION:アースケア敷島サッカー・ラグビー場（群馬県）
 DESCRIPTION:有料
 END:VEVENT
@@ -572,8 +580,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230506T130000
 DTEND;TZID=Asia/Tokyo:20230506T150000
-SEQUENCE:10
-SUMMARY:第8節(44) 日体大SMG横浜 - 伊賀FCくノ一三重
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m44.pdf
+SUMMARY:第8節(44) 日体大SMG横浜 0-2 伊賀FCくノ一三重
 LOCATION:ニッパツ三ツ沢球技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -584,8 +593,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230506T130000
 DTEND;TZID=Asia/Tokyo:20230506T150000
-SEQUENCE:10
-SUMMARY:第8節(45) 静岡SSUボニータ - スペランツァ大阪
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m45.pdf
+SUMMARY:第8節(45) 静岡SSUボニータ 1-0 スペランツァ大阪
 LOCATION:磐田スポーツ交流の里ゆめりあサッカー場（静岡県）
 DESCRIPTION:有料
 END:VEVENT
@@ -596,8 +606,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230506T130000
 DTEND;TZID=Asia/Tokyo:20230506T150000
-SEQUENCE:10
-SUMMARY:第8節(46) ASハリマアルビオン - 朝日インテック・ラブリッジ名古屋
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m46.pdf
+SUMMARY:第8節(46) ASハリマアルビオン 2-2 朝日インテック・ラブリッジ名古屋
 LOCATION:ウインク陸上競技場（兵庫県）
 DESCRIPTION:有料
 END:VEVENT
@@ -608,8 +619,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230506T130000
 DTEND;TZID=Asia/Tokyo:20230506T150000
-SEQUENCE:10
-SUMMARY:第8節(47) 愛媛FCレディース - スフィーダ世田谷FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m47.pdf
+SUMMARY:第8節(47) 愛媛FCレディース 1-1 スフィーダ世田谷FC
 LOCATION:愛媛県総合運動公園球技場（愛媛県）
 DESCRIPTION:有料
 END:VEVENT
@@ -620,8 +632,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230507T130000
 DTEND;TZID=Asia/Tokyo:20230507T150000
-SEQUENCE:10
-SUMMARY:第8節(48) オルカ鴨川FC - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m48.pdf
+SUMMARY:第8節(48) オルカ鴨川FC 5-0 大和シルフィード
 LOCATION:鴨川市陸上競技場（千葉県）
 DESCRIPTION:有料
 END:VEVENT
@@ -646,7 +659,7 @@ DTSTART;TZID=Asia/Tokyo:20230513T183000
 DTEND;TZID=Asia/Tokyo:20230513T203000
 SEQUENCE:10
 SUMMARY:第9節(50) 大和シルフィード - 日体大SMG横浜
-LOCATION:レモンガススタジアム平塚
+LOCATION:レモンガススタジアム平塚（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
 BEGIN:VEVENT
