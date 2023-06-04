@@ -581,8 +581,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230603T110000
 DTEND;TZID=Asia/Tokyo:20230603T130000
-SEQUENCE:10
-SUMMARY:第10節(46) ディアヴォロッソ広島 - ヴィアマテラス宮崎
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m46.pdf
+SUMMARY:第10節(46) ディアヴォロッソ広島 0-12 ヴィアマテラス宮崎
 LOCATION:ダッシュこざかなくん陸上競技場（広島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -592,8 +593,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230604T110000
 DTEND;TZID=Asia/Tokyo:20230604T130000
-SEQUENCE:10
-SUMMARY:第10節(47) JFAアカデミー福島 - ヴィアティン三重レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m47.pdf
+SUMMARY:第10節(47) JFAアカデミー福島 1-0 ヴィアティン三重レディース
 LOCATION:時之栖スポーツセンター裾野グラウンド天然芝（静岡県）
 END:VEVENT
 BEGIN:VEVENT
@@ -603,8 +605,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230604T130000
 DTEND;TZID=Asia/Tokyo:20230604T150000
-SEQUENCE:10
-SUMMARY:第10節(48) ノルディーア北海道 - FCふじざくら山梨
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m48.pdf
+SUMMARY:第10節(48) ノルディーア北海道 0-1 FCふじざくら山梨
 LOCATION:札幌厚別公園競技場（北海道）
 DESCRIPTION:有料
 END:VEVENT
@@ -615,8 +618,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230604T130000
 DTEND;TZID=Asia/Tokyo:20230604T150000
-SEQUENCE:10
-SUMMARY:第10節(49) 吉備国際大学Charme岡山高梁 - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m49.pdf
+SUMMARY:第10節(49) 吉備国際大学Charme岡山高梁 2-1 つくばFCレディース
 LOCATION:高梁市神原スポーツ公園多目的グラウンド（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -627,8 +631,9 @@ DTSTAMP:20230224T152323
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230604T130000
 DTEND;TZID=Asia/Tokyo:20230604T150000
-SEQUENCE:10
-SUMMARY:第10節(50) 福岡J・アンクラス - 岡山湯郷Belle
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko2/match_report/m50.pdf
+SUMMARY:第10節(50) 福岡J・アンクラス 0-3 岡山湯郷Belle
 LOCATION:ベスト電器スタジアム（福岡県）
 DESCRIPTION:有料
 END:VEVENT
