@@ -879,8 +879,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230610T130000
 DTEND;TZID=Asia/Tokyo:20230610T150000
-SEQUENCE:10
-SUMMARY:第12節(67) バニーズ群馬FCホワイトスター - ASハリマアルビオン
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m67.pdf
+SUMMARY:第12節(67) バニーズ群馬FCホワイトスター 5-0 ASハリマアルビオン
 LOCATION:アースケア敷島サッカー・ラグビー場（群馬県）
 DESCRIPTION:有料
 END:VEVENT
@@ -891,8 +892,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230610T130000
 DTEND;TZID=Asia/Tokyo:20230610T150000
-SEQUENCE:10
-SUMMARY:第12節(68) スペランツァ大阪 - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m68.pdf
+SUMMARY:第12節(68) スペランツァ大阪 2-1 大和シルフィード
 LOCATION:万博記念競技場（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -903,8 +905,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230610T130000
 DTEND;TZID=Asia/Tokyo:20230610T150000
-SEQUENCE:10
-SUMMARY:第12節(69) 愛媛FCレディース - 朝日インテック・ラブリッジ名古屋
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m69.pdf
+SUMMARY:第12節(69) 愛媛FCレディース 0-3 朝日インテック・ラブリッジ名古屋
 LOCATION:愛媛県総合運動公園球技場（愛媛県）
 DESCRIPTION:有料
 END:VEVENT
@@ -915,8 +918,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230611T130000
 DTEND;TZID=Asia/Tokyo:20230611T150000
-SEQUENCE:10
-SUMMARY:第12節(70) オルカ鴨川FC - スフィーダ世田谷FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m70.pdf
+SUMMARY:第12節(70) オルカ鴨川FC 1-1 スフィーダ世田谷FC
 LOCATION:鴨川市陸上競技場（千葉県）
 DESCRIPTION:有料
 END:VEVENT
@@ -927,8 +931,9 @@ DTSTAMP:20230515T172015
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230611T130000
 DTEND;TZID=Asia/Tokyo:20230611T150000
-SEQUENCE:10
-SUMMARY:第12節(71) ニッパツ横浜FCシーガルズ - 伊賀FCくノ一三重
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m71.pdf
+SUMMARY:第12節(71) ニッパツ横浜FCシーガルズ 0-1 伊賀FCくノ一三重
 LOCATION:富士山の銘水スタジアム（山梨県）
 DESCRIPTION:有料
 END:VEVENT
@@ -939,8 +944,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230611T130000
 DTEND;TZID=Asia/Tokyo:20230611T150000
-SEQUENCE:10
-SUMMARY:第12節(72) 静岡SSUボニータ - 日体大SMG横浜
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m72.pdf
+SUMMARY:第12節(72) 静岡SSUボニータ 0-0 日体大SMG横浜
 LOCATION:ヤマハスタジアム（磐田）（静岡県）
 DESCRIPTION:有料
 END:VEVENT
