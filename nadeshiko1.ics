@@ -957,8 +957,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230617T130000
 DTEND;TZID=Asia/Tokyo:20230617T150000
-SEQUENCE:10
-SUMMARY:第13節(73) 日体大SMG横浜 - オルカ鴨川FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m73.pdf
+SUMMARY:第13節(73) 日体大SMG横浜 0-0 オルカ鴨川FC
 LOCATION:ニッパツ三ツ沢球技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -969,8 +970,9 @@ DTSTAMP:20230305T222805
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230617T130000
 DTEND;TZID=Asia/Tokyo:20230617T150000
-SEQUENCE:10
-SUMMARY:第13節(74) 朝日インテック・ラブリッジ名古屋 - バニーズ群馬FCホワイトスター
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m74.pdf
+SUMMARY:第13節(74) 朝日インテック・ラブリッジ名古屋 3-1 バニーズ群馬FCホワイトスター
 LOCATION:ＣＳアセット港サッカー場（愛知県）
 DESCRIPTION:有料
 END:VEVENT
@@ -981,8 +983,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230617T140000
 DTEND;TZID=Asia/Tokyo:20230617T160000
-SEQUENCE:10
-SUMMARY:第13節(75) 伊賀FCくノ一三重 - 愛媛FCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m75.pdf
+SUMMARY:第13節(75) 伊賀FCくノ一三重 2-1 愛媛FCレディース
 LOCATION:ロートフィールド奈良（奈良県）
 DESCRIPTION:有料
 END:VEVENT
@@ -993,8 +996,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230618T130000
 DTEND;TZID=Asia/Tokyo:20230618T150000
-SEQUENCE:10
-SUMMARY:第13節(76) ASハリマアルビオン - 静岡SSUボニータ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m76.pdf
+SUMMARY:第13節(76) ASハリマアルビオン 0-2 静岡SSUボニータ
 LOCATION:五色台運動公園「アスパ五色」（兵庫県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1005,8 +1009,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230618T140000
 DTEND;TZID=Asia/Tokyo:20230618T160000
-SEQUENCE:10
-SUMMARY:第13節(77) スフィーダ世田谷FC - スペランツァ大阪
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m77.pdf
+SUMMARY:第13節(77) スフィーダ世田谷FC 2-1 スペランツァ大阪
 LOCATION:ＡＧＦフィールド（東京都）
 DESCRIPTION:有料
 END:VEVENT
@@ -1017,8 +1022,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230618T140000
 DTEND;TZID=Asia/Tokyo:20230618T160000
-SEQUENCE:10
-SUMMARY:第13節(78) 大和シルフィード - ニッパツ横浜FCシーガルズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m78.pdf
+SUMMARY:第13節(78) 大和シルフィード 0-4 ニッパツ横浜FCシーガルズ
 LOCATION:大和なでしこスタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
