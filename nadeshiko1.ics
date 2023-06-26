@@ -1035,8 +1035,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230624T130000
 DTEND;TZID=Asia/Tokyo:20230624T150000
-SEQUENCE:10
-SUMMARY:第14節(79) バニーズ群馬FCホワイトスター - 伊賀FCくノ一三重
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m79.pdf
+SUMMARY:第14節(79) バニーズ群馬FCホワイトスター 0-0 伊賀FCくノ一三重
 LOCATION:アースケア敷島サッカー・ラグビー場（群馬県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1047,8 +1048,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230624T130000
 DTEND;TZID=Asia/Tokyo:20230624T150000
-SEQUENCE:10
-SUMMARY:第14節(80) 愛媛FCレディース - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m80.pdf
+SUMMARY:第14節(80) 愛媛FCレディース 1-1 大和シルフィード
 LOCATION:愛媛県総合運動公園球技場（愛媛県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1059,8 +1061,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230624T140000
 DTEND;TZID=Asia/Tokyo:20230624T160000
-SEQUENCE:10
-SUMMARY:第14節(81) ニッパツ横浜FCシーガルズ - スペランツァ大阪
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m81.pdf
+SUMMARY:第14節(81) ニッパツ横浜FCシーガルズ 0-2 スペランツァ大阪
 LOCATION:神奈川県立保土ケ谷公園サッカー場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1071,8 +1074,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230625T130000
 DTEND;TZID=Asia/Tokyo:20230625T150000
-SEQUENCE:10
-SUMMARY:第14節(82) オルカ鴨川FC - ASハリマアルビオン
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m82.pdf
+SUMMARY:第14節(82) オルカ鴨川FC 1-0 ASハリマアルビオン
 LOCATION:鴨川市陸上競技場（千葉県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1083,8 +1087,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230625T130000
 DTEND;TZID=Asia/Tokyo:20230625T150000
-SEQUENCE:10
-SUMMARY:第14節(83) 日体大SMG横浜 - スフィーダ世田谷FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m83.pdf
+SUMMARY:第14節(83) 日体大SMG横浜 1-1 スフィーダ世田谷FC
 LOCATION:ニッパツ三ツ沢球技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1095,8 +1100,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230625T140000
 DTEND;TZID=Asia/Tokyo:20230625T160000
-SEQUENCE:10
-SUMMARY:第14節(84) 静岡SSUボニータ - 朝日インテック・ラブリッジ名古屋
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m84.pdf
+SUMMARY:第14節(84) 静岡SSUボニータ 0-1 朝日インテック・ラブリッジ名古屋
 LOCATION:静岡県小笠山総合運動公園エコパスタジアム（静岡県）
 DESCRIPTION:有料
 END:VEVENT
