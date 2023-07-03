@@ -1113,8 +1113,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230701T150000
 DTEND;TZID=Asia/Tokyo:20230701T170000
-SEQUENCE:10
-SUMMARY:第15節(85) 朝日インテック・ラブリッジ名古屋 - オルカ鴨川FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m85.pdf
+SUMMARY:第15節(85) 朝日インテック・ラブリッジ名古屋 3-3 オルカ鴨川FC
 LOCATION:豊橋市民球技場（愛知県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1125,8 +1126,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230701T170000
 DTEND;TZID=Asia/Tokyo:20230701T190000
-SEQUENCE:10
-SUMMARY:第15節(86) スペランツァ大阪 - 愛媛FCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m86.pdf
+SUMMARY:第15節(86) スペランツァ大阪 2-1 愛媛FCレディース
 LOCATION:J-GREEN堺S1メインフィールド（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -1137,8 +1139,9 @@ DTSTAMP:20230305T222805
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230702T150000
 DTEND;TZID=Asia/Tokyo:20230702T170000
-SEQUENCE:10
-SUMMARY:第15節(87) スフィーダ世田谷FC - ニッパツ横浜FCシーガルズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m87.pdf
+SUMMARY:第15節(87) スフィーダ世田谷FC 0-1 ニッパツ横浜FCシーガルズ
 LOCATION:駒沢オリンピック公園総合運動場陸上競技場（東京都）
 DESCRIPTION:有料
 END:VEVENT
@@ -1149,8 +1152,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230702T150000
 DTEND;TZID=Asia/Tokyo:20230702T170000
-SEQUENCE:10
-SUMMARY:第15節(88) 大和シルフィード - バニーズ群馬FCホワイトスター
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m88.pdf
+SUMMARY:第15節(88) 大和シルフィード 1-4 バニーズ群馬FCホワイトスター
 LOCATION:大和なでしこスタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1161,8 +1165,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230702T150000
 DTEND;TZID=Asia/Tokyo:20230702T170000
-SEQUENCE:10
-SUMMARY:第15節(89) ASハリマアルビオン - 日体大SMG横浜
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m89.pdf
+SUMMARY:第15節(89) ASハリマアルビオン 1-1 日体大SMG横浜
 LOCATION:ウインク陸上競技場（兵庫県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1173,8 +1178,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20230702T160000
 DTEND;TZID=Asia/Tokyo:20230702T180000
-SEQUENCE:10
-SUMMARY:第15節(90) 伊賀FCくノ一三重 - 静岡SSUボニータ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m90.pdf
+SUMMARY:第15節(90) 伊賀FCくノ一三重 1-1 静岡SSUボニータ
 LOCATION:三重交通G　スポーツの杜　鈴鹿（三重県）
 DESCRIPTION:有料
 END:VEVENT
