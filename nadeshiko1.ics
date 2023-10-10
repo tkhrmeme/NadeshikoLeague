@@ -1659,8 +1659,9 @@ DTSTAMP:20230529T092013
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20231009T130000
 DTEND;TZID=Asia/Tokyo:20231009T150000
-SEQUENCE:10
-SUMMARY:第22節(127) バニーズ群馬FCホワイトスター - オルカ鴨川FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m127.pdf
+SUMMARY:第22節(127) バニーズ群馬FCホワイトスター 1-1 オルカ鴨川FC
 LOCATION:高崎浜川運動公園浜川競技場（群馬県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1671,8 +1672,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20231009T130000
 DTEND;TZID=Asia/Tokyo:20231009T150000
-SEQUENCE:10
-SUMMARY:第22節(128) ニッパツ横浜FCシーガルズ - ASハリマアルビオン
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m128.pdf
+SUMMARY:第22節(128) ニッパツ横浜FCシーガルズ 1-1 ASハリマアルビオン
 LOCATION:ニッパツ三ツ沢球技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1683,8 +1685,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20231009T130000
 DTEND;TZID=Asia/Tokyo:20231009T150000
-SEQUENCE:10
-SUMMARY:第22節(129) 大和シルフィード - 伊賀FCくノ一三重
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m129.pdf
+SUMMARY:第22節(129) 大和シルフィード 0-2 伊賀FCくノ一三重
 LOCATION:大和なでしこスタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1695,8 +1698,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20231009T130000
 DTEND;TZID=Asia/Tokyo:20231009T150000
-SEQUENCE:10
-SUMMARY:第22節(130) 静岡SSUボニータ - スフィーダ世田谷FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m130.pdf
+SUMMARY:第22節(130) 静岡SSUボニータ 2-4 スフィーダ世田谷FC
 LOCATION:磐田スポーツ交流の里ゆめりあサッカー場（静岡県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1707,8 +1711,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20231009T130000
 DTEND;TZID=Asia/Tokyo:20231009T150000
-SEQUENCE:10
-SUMMARY:第22節(131) スペランツァ大阪 - 朝日インテック・ラブリッジ名古屋
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m131.pdf
+SUMMARY:第22節(131) スペランツァ大阪 0-1 朝日インテック・ラブリッジ名古屋
 LOCATION:服部緑地陸上競技場（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -1719,8 +1724,9 @@ DTSTAMP:20230209T212717
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20231009T130000
 DTEND;TZID=Asia/Tokyo:20231009T150000
-SEQUENCE:10
-SUMMARY:第22節(132) 愛媛FCレディース - 日体大SMG横浜
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2023/nadeshiko1/match_report/m132.pdf
+SUMMARY:第22節(132) 愛媛FCレディース 1-2 日体大SMG横浜
 LOCATION:愛媛県総合運動公園球技場（愛媛県）
 DESCRIPTION:有料
 END:VEVENT
