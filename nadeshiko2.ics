@@ -21,8 +21,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240316T130000
 DTEND;TZID=Asia/Tokyo:20240316T150000
-SEQUENCE:10
-SUMMARY:第1節(1) つくばFCレディース - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m1.pdf
+SUMMARY:第1節(1) つくばFCレディース 0-3 吉備国際大学Charme岡山高梁
 LOCATION:セキショウ・チャレンジスタジアム（茨城県）
 END:VEVENT
 BEGIN:VEVENT
@@ -32,8 +33,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240316T130000
 DTEND;TZID=Asia/Tokyo:20240316T150000
-SEQUENCE:10
-SUMMARY:第1節(2) ディオッサ出雲FC - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m2.pdf
+SUMMARY:第1節(2) ディオッサ出雲FC 1-1 福岡J・アンクラス
 LOCATION:出雲健康公園目的運動場（島根県）
 END:VEVENT
 BEGIN:VEVENT
@@ -43,8 +45,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240316T130000
 DTEND;TZID=Asia/Tokyo:20240316T150000
-SEQUENCE:10
-SUMMARY:第1節(3) ディアヴォロッソ広島 - JFAアカデミー福島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m3.pdf
+SUMMARY:第1節(3) ディアヴォロッソ広島 0-2 JFAアカデミー福島
 LOCATION:ミツトヨスポーツパーク郷原　陸上競技場（広島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -54,8 +57,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240316T150000
 DTEND;TZID=Asia/Tokyo:20240316T170000
-SEQUENCE:10
-SUMMARY:第1節(4) SEISA OSAレイア湘南FC - ヴィアティン三重レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m4.pdf
+SUMMARY:第1節(4) SEISA OSAレイア湘南FC 3-1 ヴィアティン三重レディース
 LOCATION:厚木市荻野運動公園競技場（神奈川県）
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +69,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240317T130000
 DTEND;TZID=Asia/Tokyo:20240317T150000
-SEQUENCE:10
-SUMMARY:第1節(5) FCふじざくら山梨 - 岡山湯郷Belle
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m5.pdf
+SUMMARY:第1節(5) FCふじざくら山梨 0-1 岡山湯郷Belle
 LOCATION:富士山の銘水スタジアム（山梨県）
 END:VEVENT
 BEGIN:VEVENT
@@ -76,8 +81,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240317T130000
 DTEND;TZID=Asia/Tokyo:20240317T150000
-SEQUENCE:10
-SUMMARY:第1節(6) FC今治レディース - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m6.pdf
+SUMMARY:第1節(6) FC今治レディース 0-1 大和シルフィード
 LOCATION:今治里山スタジアム（愛媛県）
 END:VEVENT
 BEGIN:VEVENT
@@ -87,8 +93,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240323T113000
 DTEND;TZID=Asia/Tokyo:20240323T133000
-SEQUENCE:10
-SUMMARY:第2節(7) 大和シルフィード - ディオッサ出雲FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m7.pdf
+SUMMARY:第2節(7) 大和シルフィード 1-0 ディオッサ出雲FC
 LOCATION:大和なでしこスタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -99,8 +106,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240324T110000
 DTEND;TZID=Asia/Tokyo:20240324T130000
-SEQUENCE:10
-SUMMARY:第2節(8) JFAアカデミー福島 - SEISA OSAレイア湘南FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m8.pdf
+SUMMARY:第2節(8) JFAアカデミー福島 3-1 SEISA OSAレイア湘南FC
 LOCATION:ナショナルトレーニングセンター　Ｊヴィレッジスタジアム（福島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -110,8 +118,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240324T130000
 DTEND;TZID=Asia/Tokyo:20240324T150000
-SEQUENCE:10
-SUMMARY:第2節(9) ヴィアティン三重レディース - FC今治レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m9.pdf
+SUMMARY:第2節(9) ヴィアティン三重レディース 0-0 FC今治レディース
 LOCATION:LA・PITA東員スタジアム（三重県）
 DESCRIPTION:有料
 END:VEVENT
@@ -122,8 +131,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240324T130000
 DTEND;TZID=Asia/Tokyo:20240324T150000
-SEQUENCE:10
-SUMMARY:第2節(10) 岡山湯郷Belle - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m10.pdf
+SUMMARY:第2節(10) 岡山湯郷Belle 4-1 つくばFCレディース
 LOCATION:岡山県美作ラグビー・サッカー場（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -134,8 +144,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240324T130000
 DTEND;TZID=Asia/Tokyo:20240324T150000
-SEQUENCE:10
-SUMMARY:第2節(11) 吉備国際大学Charme岡山高梁 - ディアヴォロッソ広島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m11.pdf
+SUMMARY:第2節(11) 吉備国際大学Charme岡山高梁 1-1 ディアヴォロッソ広島
 LOCATION:高梁市神原スポーツ公園多目的グラウンド（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -146,8 +157,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240324T130000
 DTEND;TZID=Asia/Tokyo:20240324T150000
-SEQUENCE:10
-SUMMARY:第2節(12) 福岡J・アンクラス - FCふじざくら山梨
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m12.pdf
+SUMMARY:第2節(12) 福岡J・アンクラス 1-2 FCふじざくら山梨
 LOCATION:鳥栖市陸上競技場（佐賀県）
 DESCRIPTION:有料
 END:VEVENT
