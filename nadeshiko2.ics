@@ -384,7 +384,7 @@ DTEND;TZID=Asia/Tokyo:20240414T150000
 SEQUENCE:11
 URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m30.pdf
 SUMMARY:第5節(30) ディアヴォロッソ広島 2-1 FC今治レディース
-LOCATION:Balcom BMW 広島総合グランド陸上競技場
+LOCATION:Balcom BMW 広島総合グランド陸上競技場（広島県）
 END:VEVENT
 BEGIN:VEVENT
 UID:ca640a08c5b311eeac6c02542fb9d209
@@ -518,8 +518,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240428T130000
 DTEND;TZID=Asia/Tokyo:20240428T150000
-SEQUENCE:10
-SUMMARY:第7節(41) FCふじざくら山梨 - FC今治レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m41.pdf
+SUMMARY:第7節(41) FCふじざくら山梨 1-1 FC今治レディース
 LOCATION:JITリサイクルインクスタジアム（山梨県）
 END:VEVENT
 BEGIN:VEVENT
@@ -529,8 +530,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240428T130000
 DTEND;TZID=Asia/Tokyo:20240428T150000
-SEQUENCE:10
-SUMMARY:第7節(42) 福岡J・アンクラス - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m42.pdf
+SUMMARY:第7節(42) 福岡J・アンクラス 2-1 大和シルフィード
 LOCATION:ベスト電器スタジアム（福岡県）
 DESCRIPTION:有料
 END:VEVENT
