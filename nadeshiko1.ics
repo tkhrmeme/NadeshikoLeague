@@ -502,8 +502,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240428T130000
 DTEND;TZID=Asia/Tokyo:20240428T150000
-SEQUENCE:10
-SUMMARY:第7節(38) バニーズ群馬FCホワイトスター - スペランツァ大阪
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m38.pdf
+SUMMARY:第7節(38) バニーズ群馬FCホワイトスター 2-2 スペランツァ大阪
 LOCATION:アースケア敷島サッカー・ラグビー場（群馬県）
 DESCRIPTION:有料
 END:VEVENT
@@ -514,8 +515,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240428T130000
 DTEND;TZID=Asia/Tokyo:20240428T150000
-SEQUENCE:10
-SUMMARY:第7節(39) 日体大SMG横浜 - 朝日インテック・ラブリッジ名古屋
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m39.pdf
+SUMMARY:第7節(39) 日体大SMG横浜 1-2 朝日インテック・ラブリッジ名古屋
 LOCATION:ニッパツ三ツ沢球技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -526,8 +528,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240428T130000
 DTEND;TZID=Asia/Tokyo:20240428T150000
-SEQUENCE:10
-SUMMARY:第7節(40) 伊賀FCくノ一三重 - ニッパツ横浜FCシーガルズ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m40.pdf
+SUMMARY:第7節(40) 伊賀FCくノ一三重 0-3 ニッパツ横浜FCシーガルズ
 LOCATION:上野運動公園競技場（三重県）
 DESCRIPTION:有料
 END:VEVENT
@@ -538,8 +541,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240428T140000
 DTEND;TZID=Asia/Tokyo:20240428T160000
-SEQUENCE:10
-SUMMARY:第7節(41) スフィーダ世田谷FC - オルカ鴨川FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m41.pdf
+SUMMARY:第7節(41) スフィーダ世田谷FC 2-2 オルカ鴨川FC
 LOCATION:スピアーズえどりくフィールド（東京都）
 DESCRIPTION:有料
 END:VEVENT
@@ -550,8 +554,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240429T150000
 DTEND;TZID=Asia/Tokyo:20240429T170000
-SEQUENCE:10
-SUMMARY:第7節(42) ASハリマアルビオン - 静岡SSUボニータ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m42.pdf
+SUMMARY:第7節(42) ASハリマアルビオン 2-0 静岡SSUボニータ
 LOCATION:ウインク陸上競技場（兵庫県）
 DESCRIPTION:有料
 END:VEVENT
