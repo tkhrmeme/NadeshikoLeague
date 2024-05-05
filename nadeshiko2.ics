@@ -543,8 +543,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240503T110000
 DTEND;TZID=Asia/Tokyo:20240503T130000
-SEQUENCE:10
-SUMMARY:第8節(43) JFAアカデミー福島 - 岡山湯郷Belle
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m43.pdf
+SUMMARY:第8節(43) JFAアカデミー福島 0-6 岡山湯郷Belle
 LOCATION:ナショナルトレーニングセンター　Ｊヴィレッジスタジアム（福島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -554,8 +555,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240503T113000
 DTEND;TZID=Asia/Tokyo:20240503T133000
-SEQUENCE:10
-SUMMARY:第8節(44) 大和シルフィード - ディアヴォロッソ広島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m44.pdf
+SUMMARY:第8節(44) 大和シルフィード 2-0 ディアヴォロッソ広島
 LOCATION:大和なでしこスタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -566,9 +568,11 @@ DTSTAMP:20240303T184406
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240503T113000
 DTEND;TZID=Asia/Tokyo:20240503T133000
-SEQUENCE:10
-SUMMARY:第8節(45) SEISA OSAレイア湘南FC - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m45.pdf
+SUMMARY:第8節(45) SEISA OSAレイア湘南FC 3-0 吉備国際大学Charme岡山高梁
 LOCATION:星槎湘南スタジアム（神奈川県）
+DESCRIPTION:有料
 END:VEVENT
 BEGIN:VEVENT
 UID:ca641fe8c5b311eeac6c02542fb9d209
@@ -577,8 +581,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240503T120000
 DTEND;TZID=Asia/Tokyo:20240503T140000
-SEQUENCE:10
-SUMMARY:第8節(46) ヴィアティン三重レディース - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m46.pdf
+SUMMARY:第8節(46) ヴィアティン三重レディース 1-0 福岡J・アンクラス
 LOCATION:LA・PITA東員スタジアム（三重県）
 DESCRIPTION:有料
 END:VEVENT
@@ -589,8 +594,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240503T130000
 DTEND;TZID=Asia/Tokyo:20240503T150000
-SEQUENCE:10
-SUMMARY:第8節(47) ディオッサ出雲FC - FCふじざくら山梨
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m47.pdf
+SUMMARY:第8節(47) ディオッサ出雲FC 0-2 FCふじざくら山梨
 LOCATION:島根県立サッカー場（島根県）
 END:VEVENT
 BEGIN:VEVENT
@@ -600,9 +606,10 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240503T130000
 DTEND;TZID=Asia/Tokyo:20240503T150000
-SEQUENCE:10
-SUMMARY:第8節(48) FC今治レディース - つくばFCレディース
-LOCATION:今治里山スタジアム（愛媛県）
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m48.pdf
+SUMMARY:第8節(48) FC今治レディース 0-1 つくばFCレディース
+LOCATION:アシックス里山スタジアム（愛媛県）
 END:VEVENT
 BEGIN:VEVENT
 UID:ca6436ccc5b311eeac6c02542fb9d209
