@@ -567,8 +567,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240504T130000
 DTEND;TZID=Asia/Tokyo:20240504T150000
-SEQUENCE:10
-SUMMARY:第8節(43) ニッパツ横浜FCシーガルズ - スフィーダ世田谷FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m43.pdf
+SUMMARY:第8節(43) ニッパツ横浜FCシーガルズ 0-0 スフィーダ世田谷FC
 LOCATION:ニッパツ三ツ沢球技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -579,8 +580,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240504T130000
 DTEND;TZID=Asia/Tokyo:20240504T150000
-SEQUENCE:10
-SUMMARY:第8節(44) ヴィアマテラス宮崎 - ASハリマアルビオン
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m44.pdf
+SUMMARY:第8節(44) ヴィアマテラス宮崎 2-0 ASハリマアルビオン
 LOCATION:いちご宮崎新富サッカー場（宮崎県）
 DESCRIPTION:有料
 END:VEVENT
@@ -591,8 +593,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240505T130000
 DTEND;TZID=Asia/Tokyo:20240505T150000
-SEQUENCE:10
-SUMMARY:第8節(45) オルカ鴨川FC - 愛媛FCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m45.pdf
+SUMMARY:第8節(45) オルカ鴨川FC 1-1 愛媛FCレディース
 LOCATION:鴨川市陸上競技場（千葉県）
 DESCRIPTION:有料
 END:VEVENT
@@ -603,8 +606,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240505T130000
 DTEND;TZID=Asia/Tokyo:20240505T150000
-SEQUENCE:10
-SUMMARY:第8節(46) 静岡SSUボニータ - バニーズ群馬FCホワイトスター
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m46.pdf
+SUMMARY:第8節(46) 静岡SSUボニータ 2-0 バニーズ群馬FCホワイトスター
 LOCATION:磐田スポーツ交流の里ゆめりあサッカー場（静岡県）
 DESCRIPTION:有料
 END:VEVENT
@@ -615,8 +619,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240506T130000
 DTEND;TZID=Asia/Tokyo:20240506T150000
-SEQUENCE:10
-SUMMARY:第8節(47) 朝日インテック・ラブリッジ名古屋 - 伊賀FCくノ一三重
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m47.pdf
+SUMMARY:第8節(47) 朝日インテック・ラブリッジ名古屋 1-0 伊賀FCくノ一三重
 LOCATION:グリーン・フィールド中池（岐阜県）
 DESCRIPTION:有料
 END:VEVENT
@@ -627,8 +632,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240506T130000
 DTEND;TZID=Asia/Tokyo:20240506T150000
-SEQUENCE:10
-SUMMARY:第8節(48) スペランツァ大阪 - 日体大SMG横浜
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m48.pdf
+SUMMARY:第8節(48) スペランツァ大阪 2-2 日体大SMG横浜
 LOCATION:J-GREEN堺S1メインフィールド（大阪府）
 DESCRIPTION:有料
 END:VEVENT
