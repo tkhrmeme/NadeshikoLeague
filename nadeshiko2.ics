@@ -693,8 +693,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240511T130000
 DTEND;TZID=Asia/Tokyo:20240511T150000
-SEQUENCE:10
-SUMMARY:第10節(55) ディオッサ出雲FC - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m55.pdf
+SUMMARY:第10節(55) ディオッサ出雲FC 1-0 吉備国際大学Charme岡山高梁
 LOCATION:出雲健康公園目的運動場（島根県）
 END:VEVENT
 BEGIN:VEVENT
@@ -704,8 +705,9 @@ DTSTAMP:20240427T152847
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240511T130000
 DTEND;TZID=Asia/Tokyo:20240511T150000
-SEQUENCE:10
-SUMMARY:第10節(56) ディアヴォロッソ広島 - ヴィアティン三重レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m56.pdf
+SUMMARY:第10節(56) ディアヴォロッソ広島 0-1 ヴィアティン三重レディース
 LOCATION:庄原市上野総合公園　陸上競技場（広島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -715,8 +717,9 @@ DTSTAMP:20240222T172340
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240511T130000
 DTEND;TZID=Asia/Tokyo:20240511T150000
-SEQUENCE:10
-SUMMARY:第10節(57) 福岡J・アンクラス - SEISA OSAレイア湘南FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m57.pdf
+SUMMARY:第10節(57) 福岡J・アンクラス 0-2 SEISA OSAレイア湘南FC
 LOCATION:ベスト電器スタジアム（福岡県）
 DESCRIPTION:有料
 END:VEVENT
@@ -727,8 +730,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240511T140000
 DTEND;TZID=Asia/Tokyo:20240511T160000
-SEQUENCE:10
-SUMMARY:第10節(58) JFAアカデミー福島 - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m58.pdf
+SUMMARY:第10節(58) JFAアカデミー福島 2-1 大和シルフィード
 LOCATION:ナショナルトレーニングセンター　Ｊヴィレッジスタジアム（福島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -738,8 +742,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240512T130000
 DTEND;TZID=Asia/Tokyo:20240512T150000
-SEQUENCE:10
-SUMMARY:第10節(59) 岡山湯郷Belle - FC今治レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m59.pdf
+SUMMARY:第10節(59) 岡山湯郷Belle 7-1 FC今治レディース
 LOCATION:岡山県美作ラグビー・サッカー場（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -750,8 +755,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240512T140000
 DTEND;TZID=Asia/Tokyo:20240512T160000
-SEQUENCE:10
-SUMMARY:第10節(60) FCふじざくら山梨 - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m60.pdf
+SUMMARY:第10節(60) FCふじざくら山梨 2-0 つくばFCレディース
 LOCATION:富士山の銘水スタジアム（山梨県）
 END:VEVENT
 BEGIN:VEVENT
