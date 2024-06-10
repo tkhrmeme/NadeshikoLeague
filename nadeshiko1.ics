@@ -879,8 +879,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240608T130000
 DTEND;TZID=Asia/Tokyo:20240608T150000
-SEQUENCE:10
-SUMMARY:第12節(67) スフィーダ世田谷FC - バニーズ群馬FCホワイトスター
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m67.pdf
+SUMMARY:第12節(67) スフィーダ世田谷FC 5-0 バニーズ群馬FCホワイトスター
 LOCATION:駒沢オリンピック公園総合運動場陸上競技場（東京都）
 DESCRIPTION:有料
 END:VEVENT
@@ -891,8 +892,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240608T130000
 DTEND;TZID=Asia/Tokyo:20240608T150000
-SEQUENCE:10
-SUMMARY:第12節(68) 朝日インテック・ラブリッジ名古屋 - 静岡SSUボニータ
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m68.pdf
+SUMMARY:第12節(68) 朝日インテック・ラブリッジ名古屋 2-3 静岡SSUボニータ
 LOCATION:長良川球技メドウ（岐阜県）
 DESCRIPTION:有料
 END:VEVENT
@@ -903,8 +905,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240608T130000
 DTEND;TZID=Asia/Tokyo:20240608T150000
-SEQUENCE:10
-SUMMARY:第12節(69) スペランツァ大阪 - 愛媛FCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m69.pdf
+SUMMARY:第12節(69) スペランツァ大阪 0-3 愛媛FCレディース
 LOCATION:万博記念競技場（大阪府）
 DESCRIPTION:有料
 END:VEVENT
@@ -915,8 +918,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240609T130000
 DTEND;TZID=Asia/Tokyo:20240609T150000
-SEQUENCE:10
-SUMMARY:第12節(70) オルカ鴨川FC - ASハリマアルビオン
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m70.pdf
+SUMMARY:第12節(70) オルカ鴨川FC 0-0 ASハリマアルビオン
 LOCATION:袖ケ浦市陸上競技場（千葉県）
 DESCRIPTION:有料
 END:VEVENT
@@ -927,8 +931,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240609T130000
 DTEND;TZID=Asia/Tokyo:20240609T150000
-SEQUENCE:10
-SUMMARY:第12節(71) ニッパツ横浜FCシーガルズ - ヴィアマテラス宮崎
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m71.pdf
+SUMMARY:第12節(71) ニッパツ横浜FCシーガルズ 0-1 ヴィアマテラス宮崎
 LOCATION:ニッパツ三ツ沢球技場（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -939,8 +944,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240609T130000
 DTEND;TZID=Asia/Tokyo:20240609T150000
-SEQUENCE:10
-SUMMARY:第12節(72) 伊賀FCくノ一三重 - 日体大SMG横浜
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko1/match_report/m72.pdf
+SUMMARY:第12節(72) 伊賀FCくノ一三重 2-1 日体大SMG横浜
 LOCATION:上野運動公園競技場（三重県）
 DESCRIPTION:有料
 END:VEVENT
