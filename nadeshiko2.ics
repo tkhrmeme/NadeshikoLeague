@@ -1065,8 +1065,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240615T130000
 DTEND;TZID=Asia/Tokyo:20240615T150000
-SEQUENCE:10
-SUMMARY:第15節(85) 吉備国際大学Charme岡山高梁 - ヴィアティン三重レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m85.pdf
+SUMMARY:第15節(85) 吉備国際大学Charme岡山高梁 2-0 ヴィアティン三重レディース
 LOCATION:高梁市神原スポーツ公園多目的グラウンド（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1077,8 +1078,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240615T150000
 DTEND;TZID=Asia/Tokyo:20240615T170000
-SEQUENCE:10
-SUMMARY:第15節(86) ディオッサ出雲FC - FC今治レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m86.pdf
+SUMMARY:第15節(86) ディオッサ出雲FC 1-1 FC今治レディース
 LOCATION:島根県立浜山公園陸上競技場（島根県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1088,8 +1090,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240615T150000
 DTEND;TZID=Asia/Tokyo:20240615T170000
-SEQUENCE:10
-SUMMARY:第15節(87) 岡山湯郷Belle - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m87.pdf
+SUMMARY:第15節(87) 岡山湯郷Belle 5-1 大和シルフィード
 LOCATION:シティライトスタジアム（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1100,8 +1103,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240616T130000
 DTEND;TZID=Asia/Tokyo:20240616T150000
-SEQUENCE:10
-SUMMARY:第15節(88) FCふじざくら山梨 - SEISA OSAレイア湘南FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m88.pdf
+SUMMARY:第15節(88) FCふじざくら山梨 4-1 SEISA OSAレイア湘南FC
 LOCATION:富士山の銘水スタジアム（山梨県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1111,8 +1115,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240616T130000
 DTEND;TZID=Asia/Tokyo:20240616T150000
-SEQUENCE:10
-SUMMARY:第15節(89) ディアヴォロッソ広島 - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m89.pdf
+SUMMARY:第15節(89) ディアヴォロッソ広島 1-0 福岡J・アンクラス
 LOCATION:呉市総合スポーツセンター陸上競技場（広島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1122,8 +1127,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240616T140000
 DTEND;TZID=Asia/Tokyo:20240616T160000
-SEQUENCE:10
-SUMMARY:第15節(90) つくばFCレディース - JFAアカデミー福島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m90.pdf
+SUMMARY:第15節(90) つくばFCレディース 0-5 JFAアカデミー福島
 LOCATION:セキショウ・チャレンジスタジアム（茨城県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1237,7 +1243,7 @@ DTSTART;TZID=Asia/Tokyo:20240630T130000
 DTEND;TZID=Asia/Tokyo:20240630T150000
 SEQUENCE:10
 SUMMARY:第17節(100) 吉備国際大学Charme岡山高梁 - SEISA OSAレイア湘南FC
-LOCATION:岡山県笠岡陸上競技場（岡山県）
+LOCATION:高梁市神原スポーツ公園多目的グラウンド（岡山県）
 DESCRIPTION:有料
 END:VEVENT
 BEGIN:VEVENT
