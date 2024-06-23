@@ -1139,8 +1139,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240622T110000
 DTEND;TZID=Asia/Tokyo:20240622T130000
-SEQUENCE:10
-SUMMARY:第16節(91) JFAアカデミー福島 - 吉備国際大学Charme岡山高梁
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m91.pdf
+SUMMARY:第16節(91) JFAアカデミー福島 0-2 吉備国際大学Charme岡山高梁
 LOCATION:ナショナルトレーニングセンター　Ｊヴィレッジ天然芝ピッチ（福島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1150,8 +1151,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240622T113000
 DTEND;TZID=Asia/Tokyo:20240622T133000
-SEQUENCE:10
-SUMMARY:第16節(92) 大和シルフィード - 福岡J・アンクラス
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m92.pdf
+SUMMARY:第16節(92) 大和シルフィード 3-0 福岡J・アンクラス
 LOCATION:大和なでしこスタジアム（神奈川県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1162,8 +1164,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240622T150000
 DTEND;TZID=Asia/Tokyo:20240622T170000
-SEQUENCE:10
-SUMMARY:第16節(93) ディオッサ出雲FC - ディアヴォロッソ広島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m93.pdf
+SUMMARY:第16節(93) ディオッサ出雲FC 0-3 ディアヴォロッソ広島
 LOCATION:島根県立浜山公園陸上競技場（島根県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1173,8 +1176,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240622T160000
 DTEND;TZID=Asia/Tokyo:20240622T180000
-SEQUENCE:10
-SUMMARY:第16節(94) ヴィアティン三重レディース - 岡山湯郷Belle
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m94.pdf
+SUMMARY:第16節(94) ヴィアティン三重レディース 0-4 岡山湯郷Belle
 LOCATION:LA・PITA東員スタジアム（三重県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1185,8 +1189,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240623T130000
 DTEND;TZID=Asia/Tokyo:20240623T150000
-SEQUENCE:10
-SUMMARY:第16節(95) SEISA OSAレイア湘南FC - つくばFCレディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m95.pdf
+SUMMARY:第16節(95) SEISA OSAレイア湘南FC 2-0 つくばFCレディース
 LOCATION:レモンガススタジアム平塚（神奈川県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1196,8 +1201,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240623T130000
 DTEND;TZID=Asia/Tokyo:20240623T150000
-SEQUENCE:10
-SUMMARY:第16節(96) FC今治レディース - FCふじざくら山梨
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m96.pdf
+SUMMARY:第16節(96) FC今治レディース 0-2 FCふじざくら山梨
 LOCATION:アシックス里山スタジアム（愛媛県）
 END:VEVENT
 BEGIN:VEVENT
