@@ -1213,8 +1213,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240629T150000
 DTEND;TZID=Asia/Tokyo:20240629T170000
-SEQUENCE:10
-SUMMARY:第17節(97) 福岡J・アンクラス - ヴィアティン三重レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m97.pdf
+SUMMARY:第17節(97) 福岡J・アンクラス 0-1 ヴィアティン三重レディース
 LOCATION:小郡市陸上競技場（福岡県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1225,8 +1226,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240630T113000
 DTEND;TZID=Asia/Tokyo:20240630T133000
-SEQUENCE:10
-SUMMARY:第17節(98) FCふじざくら山梨 - ディオッサ出雲FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m98.pdf
+SUMMARY:第17節(98) FCふじざくら山梨 1-1 ディオッサ出雲FC
 LOCATION:富士山の銘水スタジアム（山梨県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1236,8 +1238,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240630T130000
 DTEND;TZID=Asia/Tokyo:20240630T150000
-SEQUENCE:10
-SUMMARY:第17節(99) つくばFCレディース - FC今治レディース
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m99.pdf
+SUMMARY:第17節(99) つくばFCレディース 0-2 FC今治レディース
 LOCATION:セキショウ・チャレンジスタジアム（茨城県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1247,8 +1250,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240630T130000
 DTEND;TZID=Asia/Tokyo:20240630T150000
-SEQUENCE:10
-SUMMARY:第17節(100) 吉備国際大学Charme岡山高梁 - SEISA OSAレイア湘南FC
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m100.pdf
+SUMMARY:第17節(100) 吉備国際大学Charme岡山高梁 1-0 SEISA OSAレイア湘南FC
 LOCATION:高梁市神原スポーツ公園多目的グラウンド（岡山県）
 DESCRIPTION:有料
 END:VEVENT
@@ -1259,8 +1263,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240630T130000
 DTEND;TZID=Asia/Tokyo:20240630T150000
-SEQUENCE:10
-SUMMARY:第17節(101) ディアヴォロッソ広島 - 大和シルフィード
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m101.pdf
+SUMMARY:第17節(101) ディアヴォロッソ広島 2-0 大和シルフィード
 LOCATION:呉市総合スポーツセンター陸上競技場（広島県）
 END:VEVENT
 BEGIN:VEVENT
@@ -1270,8 +1275,9 @@ DTSTAMP:20240207T212408
 TRANSP:OPAQUE
 DTSTART;TZID=Asia/Tokyo:20240630T150000
 DTEND;TZID=Asia/Tokyo:20240630T170000
-SEQUENCE:10
-SUMMARY:第17節(102) 岡山湯郷Belle - JFAアカデミー福島
+SEQUENCE:11
+URL;VALUE=URI:http://match.nadeshikoleague.jp/2024/nadeshiko2/match_report/m102.pdf
+SUMMARY:第17節(102) 岡山湯郷Belle 7-1 JFAアカデミー福島
 LOCATION:岡山県津山陸上競技場（岡山県）
 DESCRIPTION:有料
 END:VEVENT
